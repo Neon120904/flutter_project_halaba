@@ -24,7 +24,7 @@ class _NotificationsPageState extends State<NotificationsPage> {
             leading: CircleAvatar(
               backgroundImage: AssetImage("assets/profile/prof1.jpg"),
             ),
-            title: Text("John Doe liked your post."),
+            title: Text("John Doe liked your post."),          
             subtitle: Text("2 hrs ago"),
             trailing: Icon(Icons.more_horiz),
           ),
